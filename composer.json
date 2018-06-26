@@ -1,0 +1,23 @@
+{
+  "name": "gughovh/laravel-redis-priority-queue",
+  "description": "Redis priority queue for laravel.",
+  "keywords": ["laravel", "redis", "queue"],
+  "require": {
+    "php": ">=7.0.0",
+    "predis/predis": "^1.1"
+  },
+  "authors": [
+    {
+      "name": "gughovh",
+      "email": "gugo.hovhannisya@gmail.com"
+    }
+  ],
+  "suggest": {
+    "illuminate/support": "Required for Laravel support"
+  },
+  "autoload": {
+    "psr-4": {
+      "Aragil\\": "src/"
+    }
+  }
+}
