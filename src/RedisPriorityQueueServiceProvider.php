@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Aragil;
 
 use Illuminate\Queue\QueueManager;
 use Illuminate\Support\ServiceProvider;

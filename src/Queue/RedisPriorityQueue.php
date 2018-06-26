@@ -6,7 +6,7 @@
  * Time: 1:58 PM
  */
 
-namespace App\Providers;
+namespace Aragil\Queue;
 
 
 use Illuminate\Queue\RedisQueue;

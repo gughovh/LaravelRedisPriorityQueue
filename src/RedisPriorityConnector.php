@@ -6,7 +6,7 @@
  * Time: 1:53 PM
  */
 
-namespace App\Providers;
+namespace Aragil;
 
 
 use Illuminate\Queue\Connectors\RedisConnector;

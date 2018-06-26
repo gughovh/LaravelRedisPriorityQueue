@@ -6,7 +6,7 @@
  * Time: 2:12 PM
  */
 
-namespace App\Providers;
+namespace Aragil\Queue;
 
 
 class LuaScripts extends \Illuminate\Queue\LuaScripts
