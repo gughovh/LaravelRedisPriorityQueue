@@ -11,6 +11,7 @@ namespace Aragil;
 
 use Illuminate\Queue\Connectors\RedisConnector;
 use Illuminate\Support\Arr;
+use Aragil\Queue\RedisPriorityQueue;
 
 class RedisPriorityConnector extends RedisConnector
 {
